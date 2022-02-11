@@ -1,0 +1,96 @@
+D:/HSE/Podbelsky/!!!Слайды_семинаров/CSharp_Net5/2_02b_Redis/Practice-Redis/TaskIntSolution/bin/Debug/net5.0/02_TaskIntSolution.exe
+D:/HSE/Podbelsky/!!!Слайды_семинаров/CSharp_Net5/2_02b_Redis/Practice-Redis/TaskIntSolution/bin/Debug/net5.0/02_TaskIntSolution.deps.json
+D:/HSE/Podbelsky/!!!Слайды_семинаров/CSharp_Net5/2_02b_Redis/Practice-Redis/TaskIntSolution/bin/Debug/net5.0/02_TaskIntSolution.runtimeconfig.json
+D:/HSE/Podbelsky/!!!Слайды_семинаров/CSharp_Net5/2_02b_Redis/Practice-Redis/TaskIntSolution/bin/Debug/net5.0/02_TaskIntSolution.runtimeconfig.dev.json
+D:/HSE/Podbelsky/!!!Слайды_семинаров/CSharp_Net5/2_02b_Redis/Practice-Redis/TaskIntSolution/bin/Debug/net5.0/02_TaskIntSolution.dll
+D:/HSE/Podbelsky/!!!Слайды_семинаров/CSharp_Net5/2_02b_Redis/Practice-Redis/TaskIntSolution/bin/Debug/net5.0/ref/02_TaskIntSolution.dll
+D:/HSE/Podbelsky/!!!Слайды_семинаров/CSharp_Net5/2_02b_Redis/Practice-Redis/TaskIntSolution/bin/Debug/net5.0/02_TaskIntSolution.pdb
+D:/HSE/Podbelsky/!!!Слайды_семинаров/CSharp_Net5/2_02b_Redis/Practice-Redis/TaskIntSolution/bin/Debug/net5.0/Microsoft.Win32.SystemEvents.dll
+D:/HSE/Podbelsky/!!!Слайды_семинаров/CSharp_Net5/2_02b_Redis/Practice-Redis/TaskIntSolution/bin/Debug/net5.0/Pipelines.Sockets.Unofficial.dll
+D:/HSE/Podbelsky/!!!Слайды_семинаров/CSharp_Net5/2_02b_Redis/Practice-Redis/TaskIntSolution/bin/Debug/net5.0/StackExchange.Redis.dll
+D:/HSE/Podbelsky/!!!Слайды_семинаров/CSharp_Net5/2_02b_Redis/Practice-Redis/TaskIntSolution/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+D:/HSE/Podbelsky/!!!Слайды_семинаров/CSharp_Net5/2_02b_Redis/Practice-Redis/TaskIntSolution/bin/Debug/net5.0/System.Diagnostics.PerformanceCounter.dll
+D:/HSE/Podbelsky/!!!Слайды_семинаров/CSharp_Net5/2_02b_Redis/Practice-Redis/TaskIntSolution/bin/Debug/net5.0/System.Drawing.Common.dll
+D:/HSE/Podbelsky/!!!Слайды_семинаров/CSharp_Net5/2_02b_Redis/Practice-Redis/TaskIntSolution/bin/Debug/net5.0/System.IO.Pipelines.dll
+D:/HSE/Podbelsky/!!!Слайды_семинаров/CSharp_Net5/2_02b_Redis/Practice-Redis/TaskIntSolution/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+D:/HSE/Podbelsky/!!!Слайды_семинаров/CSharp_Net5/2_02b_Redis/Practice-Redis/TaskIntSolution/bin/Debug/net5.0/System.Security.Permissions.dll
+D:/HSE/Podbelsky/!!!Слайды_семинаров/CSharp_Net5/2_02b_Redis/Practice-Redis/TaskIntSolution/bin/Debug/net5.0/System.Windows.Extensions.dll
+D:/HSE/Podbelsky/!!!Слайды_семинаров/CSharp_Net5/2_02b_Redis/Practice-Redis/TaskIntSolution/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+D:/HSE/Podbelsky/!!!Слайды_семинаров/CSharp_Net5/2_02b_Redis/Practice-Redis/TaskIntSolution/bin/Debug/net5.0/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+D:/HSE/Podbelsky/!!!Слайды_семинаров/CSharp_Net5/2_02b_Redis/Practice-Redis/TaskIntSolution/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/HSE/Podbelsky/!!!Слайды_семинаров/CSharp_Net5/2_02b_Redis/Practice-Redis/TaskIntSolution/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/HSE/Podbelsky/!!!Слайды_семинаров/CSharp_Net5/2_02b_Redis/Practice-Redis/TaskIntSolution/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/HSE/Podbelsky/!!!Слайды_семинаров/CSharp_Net5/2_02b_Redis/Practice-Redis/TaskIntSolution/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+D:/HSE/Podbelsky/!!!Слайды_семинаров/CSharp_Net5/2_02b_Redis/Practice-Redis/TaskIntSolution/obj/Debug/net5.0/02_TaskIntSolution.GeneratedMSBuildEditorConfig.editorconfig
+D:/HSE/Podbelsky/!!!Слайды_семинаров/CSharp_Net5/2_02b_Redis/Practice-Redis/TaskIntSolution/obj/Debug/net5.0/02_TaskIntSolution.AssemblyInfoInputs.cache
+D:/HSE/Podbelsky/!!!Слайды_семинаров/CSharp_Net5/2_02b_Redis/Practice-Redis/TaskIntSolution/obj/Debug/net5.0/02_TaskIntSolution.AssemblyInfo.cs
+D:/HSE/Podbelsky/!!!Слайды_семинаров/CSharp_Net5/2_02b_Redis/Practice-Redis/TaskIntSolution/obj/Debug/net5.0/02_TaskIntSolution.csproj.CoreCompileInputs.cache
+D:/HSE/Podbelsky/!!!Слайды_семинаров/CSharp_Net5/2_02b_Redis/Practice-Redis/TaskIntSolution/obj/Debug/net5.0/02_TaskIntSolution.dll
+D:/HSE/Podbelsky/!!!Слайды_семинаров/CSharp_Net5/2_02b_Redis/Practice-Redis/TaskIntSolution/obj/Debug/net5.0/ref/02_TaskIntSolution.dll
+D:/HSE/Podbelsky/!!!Слайды_семинаров/CSharp_Net5/2_02b_Redis/Practice-Redis/TaskIntSolution/obj/Debug/net5.0/02_TaskIntSolution.pdb
+D:/HSE/Podbelsky/!!!Слайды_семинаров/CSharp_Net5/2_02b_Redis/Practice-Redis/TaskIntSolution/obj/Debug/net5.0/02_TaskIntSolution.genruntimeconfig.cache
+D:/HSE/Podbelsky/!!!Слайды_семинаров/CSharp_Net5/2_02b_Redis/Practice-Redis/TaskIntSolution/obj/Debug/net5.0/02_TaskIntSolution.csproj.AssemblyReference.cache
+/Users/mgordenko/Downloads/Practice-Redis/02_TaskIntSolution/bin/Debug/net5.0/02_TaskIntSolution.deps.json
+/Users/mgordenko/Downloads/Practice-Redis/02_TaskIntSolution/bin/Debug/net5.0/02_TaskIntSolution.runtimeconfig.json
+/Users/mgordenko/Downloads/Practice-Redis/02_TaskIntSolution/bin/Debug/net5.0/02_TaskIntSolution.runtimeconfig.dev.json
+/Users/mgordenko/Downloads/Practice-Redis/02_TaskIntSolution/bin/Debug/net5.0/02_TaskIntSolution.dll
+/Users/mgordenko/Downloads/Practice-Redis/02_TaskIntSolution/bin/Debug/net5.0/ref/02_TaskIntSolution.dll
+/Users/mgordenko/Downloads/Practice-Redis/02_TaskIntSolution/bin/Debug/net5.0/02_TaskIntSolution.pdb
+/Users/mgordenko/Downloads/Practice-Redis/02_TaskIntSolution/bin/Debug/net5.0/Microsoft.Win32.SystemEvents.dll
+/Users/mgordenko/Downloads/Practice-Redis/02_TaskIntSolution/bin/Debug/net5.0/Pipelines.Sockets.Unofficial.dll
+/Users/mgordenko/Downloads/Practice-Redis/02_TaskIntSolution/bin/Debug/net5.0/StackExchange.Redis.dll
+/Users/mgordenko/Downloads/Practice-Redis/02_TaskIntSolution/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/mgordenko/Downloads/Practice-Redis/02_TaskIntSolution/bin/Debug/net5.0/System.Diagnostics.PerformanceCounter.dll
+/Users/mgordenko/Downloads/Practice-Redis/02_TaskIntSolution/bin/Debug/net5.0/System.Drawing.Common.dll
+/Users/mgordenko/Downloads/Practice-Redis/02_TaskIntSolution/bin/Debug/net5.0/System.IO.Pipelines.dll
+/Users/mgordenko/Downloads/Practice-Redis/02_TaskIntSolution/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mgordenko/Downloads/Practice-Redis/02_TaskIntSolution/bin/Debug/net5.0/System.Security.Permissions.dll
+/Users/mgordenko/Downloads/Practice-Redis/02_TaskIntSolution/bin/Debug/net5.0/System.Windows.Extensions.dll
+/Users/mgordenko/Downloads/Practice-Redis/02_TaskIntSolution/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/mgordenko/Downloads/Practice-Redis/02_TaskIntSolution/bin/Debug/net5.0/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+/Users/mgordenko/Downloads/Practice-Redis/02_TaskIntSolution/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/mgordenko/Downloads/Practice-Redis/02_TaskIntSolution/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/mgordenko/Downloads/Practice-Redis/02_TaskIntSolution/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mgordenko/Downloads/Practice-Redis/02_TaskIntSolution/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/mgordenko/Downloads/Practice-Redis/02_TaskIntSolution/obj/Debug/net5.0/02_TaskIntSolution.csproj.AssemblyReference.cache
+/Users/mgordenko/Downloads/Practice-Redis/02_TaskIntSolution/obj/Debug/net5.0/02_TaskIntSolution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mgordenko/Downloads/Practice-Redis/02_TaskIntSolution/obj/Debug/net5.0/02_TaskIntSolution.AssemblyInfoInputs.cache
+/Users/mgordenko/Downloads/Practice-Redis/02_TaskIntSolution/obj/Debug/net5.0/02_TaskIntSolution.AssemblyInfo.cs
+/Users/mgordenko/Downloads/Practice-Redis/02_TaskIntSolution/obj/Debug/net5.0/02_TaskIntSolution.csproj.CoreCompileInputs.cache
+/Users/mgordenko/Downloads/Practice-Redis/02_TaskIntSolution/obj/Debug/net5.0/02_TaskIntSolution.csproj.CopyComplete
+/Users/mgordenko/Downloads/Practice-Redis/02_TaskIntSolution/obj/Debug/net5.0/02_TaskIntSolution.dll
+/Users/mgordenko/Downloads/Practice-Redis/02_TaskIntSolution/obj/Debug/net5.0/ref/02_TaskIntSolution.dll
+/Users/mgordenko/Downloads/Practice-Redis/02_TaskIntSolution/obj/Debug/net5.0/02_TaskIntSolution.pdb
+/Users/mgordenko/Downloads/Practice-Redis/02_TaskIntSolution/obj/Debug/net5.0/02_TaskIntSolution.genruntimeconfig.cache
+/Users/elizabeth/Desktop/219OsipovaElizaveta/02 module/04 seminar/home_work/task2/bin/Debug/net5.0/02_TaskIntSolution.deps.json
+/Users/elizabeth/Desktop/219OsipovaElizaveta/02 module/04 seminar/home_work/task2/bin/Debug/net5.0/02_TaskIntSolution.runtimeconfig.json
+/Users/elizabeth/Desktop/219OsipovaElizaveta/02 module/04 seminar/home_work/task2/bin/Debug/net5.0/02_TaskIntSolution.runtimeconfig.dev.json
+/Users/elizabeth/Desktop/219OsipovaElizaveta/02 module/04 seminar/home_work/task2/bin/Debug/net5.0/02_TaskIntSolution.dll
+/Users/elizabeth/Desktop/219OsipovaElizaveta/02 module/04 seminar/home_work/task2/bin/Debug/net5.0/ref/02_TaskIntSolution.dll
+/Users/elizabeth/Desktop/219OsipovaElizaveta/02 module/04 seminar/home_work/task2/bin/Debug/net5.0/02_TaskIntSolution.pdb
+/Users/elizabeth/Desktop/219OsipovaElizaveta/02 module/04 seminar/home_work/task2/bin/Debug/net5.0/Microsoft.Win32.SystemEvents.dll
+/Users/elizabeth/Desktop/219OsipovaElizaveta/02 module/04 seminar/home_work/task2/bin/Debug/net5.0/Pipelines.Sockets.Unofficial.dll
+/Users/elizabeth/Desktop/219OsipovaElizaveta/02 module/04 seminar/home_work/task2/bin/Debug/net5.0/StackExchange.Redis.dll
+/Users/elizabeth/Desktop/219OsipovaElizaveta/02 module/04 seminar/home_work/task2/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/elizabeth/Desktop/219OsipovaElizaveta/02 module/04 seminar/home_work/task2/bin/Debug/net5.0/System.Diagnostics.PerformanceCounter.dll
+/Users/elizabeth/Desktop/219OsipovaElizaveta/02 module/04 seminar/home_work/task2/bin/Debug/net5.0/System.Drawing.Common.dll
+/Users/elizabeth/Desktop/219OsipovaElizaveta/02 module/04 seminar/home_work/task2/bin/Debug/net5.0/System.IO.Pipelines.dll
+/Users/elizabeth/Desktop/219OsipovaElizaveta/02 module/04 seminar/home_work/task2/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/elizabeth/Desktop/219OsipovaElizaveta/02 module/04 seminar/home_work/task2/bin/Debug/net5.0/System.Security.Permissions.dll
+/Users/elizabeth/Desktop/219OsipovaElizaveta/02 module/04 seminar/home_work/task2/bin/Debug/net5.0/System.Windows.Extensions.dll
+/Users/elizabeth/Desktop/219OsipovaElizaveta/02 module/04 seminar/home_work/task2/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/elizabeth/Desktop/219OsipovaElizaveta/02 module/04 seminar/home_work/task2/bin/Debug/net5.0/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+/Users/elizabeth/Desktop/219OsipovaElizaveta/02 module/04 seminar/home_work/task2/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/elizabeth/Desktop/219OsipovaElizaveta/02 module/04 seminar/home_work/task2/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/elizabeth/Desktop/219OsipovaElizaveta/02 module/04 seminar/home_work/task2/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/elizabeth/Desktop/219OsipovaElizaveta/02 module/04 seminar/home_work/task2/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/elizabeth/Desktop/219OsipovaElizaveta/02 module/04 seminar/home_work/task2/obj/Debug/net5.0/02_TaskIntSolution.csproj.AssemblyReference.cache
+/Users/elizabeth/Desktop/219OsipovaElizaveta/02 module/04 seminar/home_work/task2/obj/Debug/net5.0/02_TaskIntSolution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elizabeth/Desktop/219OsipovaElizaveta/02 module/04 seminar/home_work/task2/obj/Debug/net5.0/02_TaskIntSolution.AssemblyInfoInputs.cache
+/Users/elizabeth/Desktop/219OsipovaElizaveta/02 module/04 seminar/home_work/task2/obj/Debug/net5.0/02_TaskIntSolution.AssemblyInfo.cs
+/Users/elizabeth/Desktop/219OsipovaElizaveta/02 module/04 seminar/home_work/task2/obj/Debug/net5.0/02_TaskIntSolution.csproj.CoreCompileInputs.cache
+/Users/elizabeth/Desktop/219OsipovaElizaveta/02 module/04 seminar/home_work/task2/obj/Debug/net5.0/02_TaskIntSolution.csproj.CopyComplete
+/Users/elizabeth/Desktop/219OsipovaElizaveta/02 module/04 seminar/home_work/task2/obj/Debug/net5.0/02_TaskIntSolution.dll
+/Users/elizabeth/Desktop/219OsipovaElizaveta/02 module/04 seminar/home_work/task2/obj/Debug/net5.0/ref/02_TaskIntSolution.dll
+/Users/elizabeth/Desktop/219OsipovaElizaveta/02 module/04 seminar/home_work/task2/obj/Debug/net5.0/02_TaskIntSolution.pdb
+/Users/elizabeth/Desktop/219OsipovaElizaveta/02 module/04 seminar/home_work/task2/obj/Debug/net5.0/02_TaskIntSolution.genruntimeconfig.cache

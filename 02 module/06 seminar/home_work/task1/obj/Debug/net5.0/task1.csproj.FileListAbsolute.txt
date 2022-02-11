@@ -1,0 +1,5 @@
+/Users/elizabeth/Desktop/219OsipovaElizaveta/02 module/06 seminar/home_work/task1/obj/Debug/net5.0/task1.csproj.AssemblyReference.cache
+/Users/elizabeth/Desktop/219OsipovaElizaveta/02 module/06 seminar/home_work/task1/obj/Debug/net5.0/task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elizabeth/Desktop/219OsipovaElizaveta/02 module/06 seminar/home_work/task1/obj/Debug/net5.0/task1.AssemblyInfoInputs.cache
+/Users/elizabeth/Desktop/219OsipovaElizaveta/02 module/06 seminar/home_work/task1/obj/Debug/net5.0/task1.AssemblyInfo.cs
+/Users/elizabeth/Desktop/219OsipovaElizaveta/02 module/06 seminar/home_work/task1/obj/Debug/net5.0/task1.csproj.CoreCompileInputs.cache
