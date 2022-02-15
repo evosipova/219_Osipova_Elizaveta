@@ -6,6 +6,7 @@ namespace Task02
     {
         static void Main(string[] args)
         {
+            int k;
             Random rnd = new Random();
             using (BinaryWriter writer =
                 new BinaryWriter(File.Open("Numbers.txt", FileMode.OpenOrCreate)))
