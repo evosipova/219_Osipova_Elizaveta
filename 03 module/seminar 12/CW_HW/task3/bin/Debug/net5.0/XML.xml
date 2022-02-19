@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<ArrayOfUniversity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <University>
+    <Name>u1</Name>
+    <Departments>
+      <Department>
+        <Name>d1</Name>
+        <Humans>
+          <Human>
+            <Name>h1</Name>
+          </Human>
+          <Human>
+            <Name>h2</Name>
+          </Human>
+          <Human>
+            <Name>h3</Name>
+          </Human>
+          <Human>
+            <Name>h4</Name>
+          </Human>
+          <Human xsi:type="Professor">
+            <Name>p1</Name>
+          </Human>
+          <Human xsi:type="Professor">
+            <Name>p2</Name>
+          </Human>
+        </Humans>
+      </Department>
+      <Department>
+        <Name>d2</Name>
+        <Humans>
+          <Human>
+            <Name>h1</Name>
+          </Human>
+          <Human>
+            <Name>h2</Name>
+          </Human>
+          <Human>
+            <Name>h3</Name>
+          </Human>
+          <Human>
+            <Name>h4</Name>
+          </Human>
+          <Human xsi:type="Professor">
+            <Name>p1</Name>
+          </Human>
+          <Human xsi:type="Professor">
+            <Name>p2</Name>
+          </Human>
+        </Humans>
+      </Department>
+    </Departments>
+  </University>
+  <University>
+    <Name>u2</Name>
+    <Departments>
+      <Department>
+        <Name>d1</Name>
+        <Humans>
+          <Human>
+            <Name>h1</Name>
+          </Human>
+          <Human>
+            <Name>h2</Name>
+          </Human>
+          <Human>
+            <Name>h3</Name>
+          </Human>
+          <Human>
+            <Name>h4</Name>
+          </Human>
+          <Human xsi:type="Professor">
+            <Name>p1</Name>
+          </Human>
+          <Human xsi:type="Professor">
+            <Name>p2</Name>
+          </Human>
+        </Humans>
+      </Department>
+      <Department>
+        <Name>d2</Name>
+        <Humans>
+          <Human>
+            <Name>h1</Name>
+          </Human>
+          <Human>
+            <Name>h2</Name>
+          </Human>
+          <Human>
+            <Name>h3</Name>
+          </Human>
+          <Human>
+            <Name>h4</Name>
+          </Human>
+          <Human xsi:type="Professor">
+            <Name>p1</Name>
+          </Human>
+          <Human xsi:type="Professor">
+            <Name>p2</Name>
+          </Human>
+        </Humans>
+      </Department>
+    </Departments>
+  </University>
+</ArrayOfUniversity>
