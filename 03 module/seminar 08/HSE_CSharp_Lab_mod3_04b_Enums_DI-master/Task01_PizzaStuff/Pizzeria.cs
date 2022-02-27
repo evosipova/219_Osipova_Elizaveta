@@ -11,7 +11,6 @@ namespace PizzaStuff
     {
         // Склад для ингредиентов. Хранит количество каждого ингредиента.
         private Dictionary<Ingredients, int> storage = new Dictionary<Ingredients, int>();
-
         /// <summary>
         /// Привозит новые ингредиенты на склад.
         /// Увеличивает количество ингредиента ingredients на значение amount.
