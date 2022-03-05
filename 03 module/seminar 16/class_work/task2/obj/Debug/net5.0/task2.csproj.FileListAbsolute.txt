@@ -1,0 +1,15 @@
+/Users/elizabeth/Desktop/219OsipovaElizaveta/03 module/seminar 16/class_work/task2/bin/Debug/net5.0/task2.deps.json
+/Users/elizabeth/Desktop/219OsipovaElizaveta/03 module/seminar 16/class_work/task2/bin/Debug/net5.0/task2.runtimeconfig.json
+/Users/elizabeth/Desktop/219OsipovaElizaveta/03 module/seminar 16/class_work/task2/bin/Debug/net5.0/task2.runtimeconfig.dev.json
+/Users/elizabeth/Desktop/219OsipovaElizaveta/03 module/seminar 16/class_work/task2/bin/Debug/net5.0/task2.dll
+/Users/elizabeth/Desktop/219OsipovaElizaveta/03 module/seminar 16/class_work/task2/bin/Debug/net5.0/ref/task2.dll
+/Users/elizabeth/Desktop/219OsipovaElizaveta/03 module/seminar 16/class_work/task2/bin/Debug/net5.0/task2.pdb
+/Users/elizabeth/Desktop/219OsipovaElizaveta/03 module/seminar 16/class_work/task2/obj/Debug/net5.0/task2.csproj.AssemblyReference.cache
+/Users/elizabeth/Desktop/219OsipovaElizaveta/03 module/seminar 16/class_work/task2/obj/Debug/net5.0/task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elizabeth/Desktop/219OsipovaElizaveta/03 module/seminar 16/class_work/task2/obj/Debug/net5.0/task2.AssemblyInfoInputs.cache
+/Users/elizabeth/Desktop/219OsipovaElizaveta/03 module/seminar 16/class_work/task2/obj/Debug/net5.0/task2.AssemblyInfo.cs
+/Users/elizabeth/Desktop/219OsipovaElizaveta/03 module/seminar 16/class_work/task2/obj/Debug/net5.0/task2.csproj.CoreCompileInputs.cache
+/Users/elizabeth/Desktop/219OsipovaElizaveta/03 module/seminar 16/class_work/task2/obj/Debug/net5.0/task2.dll
+/Users/elizabeth/Desktop/219OsipovaElizaveta/03 module/seminar 16/class_work/task2/obj/Debug/net5.0/ref/task2.dll
+/Users/elizabeth/Desktop/219OsipovaElizaveta/03 module/seminar 16/class_work/task2/obj/Debug/net5.0/task2.pdb
+/Users/elizabeth/Desktop/219OsipovaElizaveta/03 module/seminar 16/class_work/task2/obj/Debug/net5.0/task2.genruntimeconfig.cache
