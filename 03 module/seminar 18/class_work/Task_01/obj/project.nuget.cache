@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "cOkqy6YFX3DpGMPG96S1kO3t0lAyVq8l6yXWTcHPgzLRKPUlj7qis4XKt3nj5JOW7CpBmcqbyR0BFXQXbstH7Q==",
+  "success": true,
+  "projectFilePath": "/Users/shvetsovdanil/Desktop/git_projects/03_module/18_seminar/class_work/Task_01/Task_01.csproj",
+  "expectedPackageFiles": [
+    "/Users/shvetsovdanil/.nuget/packages/microsoft.data.sqlite/7.0.0-preview.2.22153.1/microsoft.data.sqlite.7.0.0-preview.2.22153.1.nupkg.sha512",
+    "/Users/shvetsovdanil/.nuget/packages/microsoft.data.sqlite.core/7.0.0-preview.2.22153.1/microsoft.data.sqlite.core.7.0.0-preview.2.22153.1.nupkg.sha512",
+    "/Users/shvetsovdanil/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.0.8-pre20220111224339/sqlitepclraw.bundle_e_sqlite3.2.0.8-pre20220111224339.nupkg.sha512",
+    "/Users/shvetsovdanil/.nuget/packages/sqlitepclraw.core/2.0.8-pre20220111224339/sqlitepclraw.core.2.0.8-pre20220111224339.nupkg.sha512",
+    "/Users/shvetsovdanil/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.0.8-pre20220111224339/sqlitepclraw.lib.e_sqlite3.2.0.8-pre20220111224339.nupkg.sha512",
+    "/Users/shvetsovdanil/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.0.8-pre20220111224339/sqlitepclraw.provider.e_sqlite3.2.0.8-pre20220111224339.nupkg.sha512",
+    "/Users/shvetsovdanil/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

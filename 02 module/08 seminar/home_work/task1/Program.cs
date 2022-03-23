@@ -12,6 +12,7 @@ namespace task1
         public string Pocket { get; set; }
         public abstract void Receive(string present);
 
+
         public Person(string name)
         {
             Name = name;
